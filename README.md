@@ -6,3 +6,5 @@ This repository contains a curated collection of high-quality C programming prog
 - Practical exercises to apply theoretical knowledge effectively
 
 Designed for learners of all levels, this repository empowers you to tackle real-world problems with confidence. Begin your journey into the world of C programming today! 🌟
+
+Note : A PDF file is attached with it that has all info.. about programs!
